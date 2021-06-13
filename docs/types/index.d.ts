@@ -21,18 +21,18 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import ARGV = require( '@stdlib/process/argv' );
-import chdir = require( '@stdlib/process/chdir' );
-import cwd = require( '@stdlib/process/cwd' );
-import ENV = require( '@stdlib/process/env' );
-import EXEC_PATH = require( '@stdlib/process/exec-path' );
-import getegid = require( '@stdlib/process/getegid' );
-import geteuid = require( '@stdlib/process/geteuid' );
-import getgid = require( '@stdlib/process/getgid' );
-import getuid = require( '@stdlib/process/getuid' );
-import NODE_VERSION = require( '@stdlib/process/node-version' );
-import stdin = require( '@stdlib/process/read-stdin' );
-import umask = require( '@stdlib/process/umask' );
+import ARGV = require( './../../argv' );
+import chdir = require( './../../chdir' );
+import cwd = require( './../../cwd' );
+import ENV = require( './../../env' );
+import EXEC_PATH = require( './../../exec-path' );
+import getegid = require( './../../getegid' );
+import geteuid = require( './../../geteuid' );
+import getgid = require( './../../getgid' );
+import getuid = require( './../../getuid' );
+import NODE_VERSION = require( './../../node-version' );
+import stdin = require( './../../read-stdin' );
+import umask = require( './../../umask' );
 
 /**
 * Interface describing the `process` namespace.

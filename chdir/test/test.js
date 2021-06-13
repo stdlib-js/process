@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var cwd = require( '@stdlib/process/cwd' );
+var cwd = require( './../../cwd' );
 var IS_BROWSER = require( '@stdlib/assert/is-browser' );
 var chdir = require( './../lib' );
 

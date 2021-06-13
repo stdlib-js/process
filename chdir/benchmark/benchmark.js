@@ -21,7 +21,7 @@
 // MODULES //
 
 var bench = require( '@stdlib/bench' );
-var cwd = require( '@stdlib/process/cwd' );
+var cwd = require( './../../cwd' );
 var IS_BROWSER = require( '@stdlib/assert/is-browser' );
 var pkg = require( './../package.json' ).name;
 var chdir = require( './../lib' );

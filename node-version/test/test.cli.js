@@ -27,7 +27,7 @@ var tape = require( 'tape' );
 var IS_BROWSER = require( '@stdlib/assert/is-browser' );
 var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
 var readFileSync = require( '@stdlib/fs/read-file' ).sync;
-var EXEC_PATH = require( '@stdlib/process/exec-path' );
+var EXEC_PATH = require( './../../exec-path' );
 
 
 // VARIABLES //

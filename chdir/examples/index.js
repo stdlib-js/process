@@ -18,7 +18,7 @@
 
 'use strict';
 
-var cwd = require( '@stdlib/process/cwd' );
+var cwd = require( './../../cwd' );
 var chdir = require( './../lib' );
 
 // Print the current working directory:
