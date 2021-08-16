@@ -61,6 +61,7 @@ The namespace contains process utilities:
 -   <span class="signature">[`chdir( path )`][@stdlib/process/chdir]</span><span class="delimiter">: </span><span class="description">change the current working directory.</span>
 -   <span class="signature">[`cwd()`][@stdlib/process/cwd]</span><span class="delimiter">: </span><span class="description">return the current working directory.</span>
 -   <span class="signature">[`ENV`][@stdlib/process/env]</span><span class="delimiter">: </span><span class="description">object containing the user environment.</span>
+-   <span class="signature">[`EXEC_PATH`][@stdlib/process/exec-path]</span><span class="delimiter">: </span><span class="description">absolute pathname of the executable which started the current Node.js process.</span>
 -   <span class="signature">[`getegid()`][@stdlib/process/getegid]</span><span class="delimiter">: </span><span class="description">return the effective numeric group identity of the calling process.</span>
 -   <span class="signature">[`geteuid()`][@stdlib/process/geteuid]</span><span class="delimiter">: </span><span class="description">return the effective numeric user identity of the calling process.</span>
 -   <span class="signature">[`getgid()`][@stdlib/process/getgid]</span><span class="delimiter">: </span><span class="description">return the numeric group identity of the calling process.</span>
@@ -160,6 +161,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/process/cwd]: https://github.com/stdlib-js/process/tree/main/cwd
 
 [@stdlib/process/env]: https://github.com/stdlib-js/process/tree/main/env
+
+[@stdlib/process/exec-path]: https://github.com/stdlib-js/process/tree/main/exec-path
 
 [@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid
 
