@@ -135,7 +135,7 @@ stream.push( null );
 
 [tty]: https://nodejs.org/api/tty.html#tty_tty
 
-[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/stdlib
+[@stdlib/streams/node/stdin]: https://github.com/stdlib-js/streams-node-stdin
 
 </section>
 
