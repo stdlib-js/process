@@ -76,6 +76,14 @@ if ( uid === 0 ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/process/getegid`][@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid`][@stdlib/process/getegid
+-   [`@stdlib/process/geteuid`][@stdlib/process/geteuid]: https://github.com/stdlib-js/process/tree/main/geteuid`][@stdlib/process/geteuid
+-   [`@stdlib/process/getgid`][@stdlib/process/getgid]: https://github.com/stdlib-js/process/tree/main/getgid`][@stdlib/process/getgid
+
 </section>
 
 <!-- /.related -->
@@ -85,6 +93,16 @@ if ( uid === 0 ) {
 <section class="links">
 
 [getuid]: http://man7.org/linux/man-pages/man2/getuid.2.html
+
+<!-- <related-links> -->
+
+[@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid
+
+[@stdlib/process/geteuid]: https://github.com/stdlib-js/process/tree/main/geteuid
+
+[@stdlib/process/getgid]: https://github.com/stdlib-js/process/tree/main/getgid
+
+<!-- </related-links> -->
 
 </section>
 

@@ -115,6 +115,12 @@ $ cwd
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/process/chdir`][@stdlib/process/chdir]: https://github.com/stdlib-js/process/tree/main/chdir`][@stdlib/process/chdir
+
 </section>
 
 <!-- /.related -->
@@ -122,6 +128,12 @@ $ cwd
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/process/chdir]: https://github.com/stdlib-js/process/tree/main/chdir
+
+<!-- </related-links> -->
 
 </section>
 

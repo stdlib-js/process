@@ -72,6 +72,14 @@ console.log( 'gid: %d', gid );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/process/getegid`][@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid`][@stdlib/process/getegid
+-   [`@stdlib/process/geteuid`][@stdlib/process/geteuid]: https://github.com/stdlib-js/process/tree/main/geteuid`][@stdlib/process/geteuid
+-   [`@stdlib/process/getuid`][@stdlib/process/getuid]: https://github.com/stdlib-js/process/tree/main/getuid`][@stdlib/process/getuid
+
 </section>
 
 <!-- /.related -->
@@ -81,6 +89,16 @@ console.log( 'gid: %d', gid );
 <section class="links">
 
 [getgid]: http://man7.org/linux/man-pages/man2/getgid.2.html
+
+<!-- <related-links> -->
+
+[@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid
+
+[@stdlib/process/geteuid]: https://github.com/stdlib-js/process/tree/main/geteuid
+
+[@stdlib/process/getuid]: https://github.com/stdlib-js/process/tree/main/getuid
+
+<!-- </related-links> -->
 
 </section>
 

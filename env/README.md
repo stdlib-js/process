@@ -77,6 +77,12 @@ console.dir( ENV );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/process/argv`][@stdlib/process/argv]: https://github.com/stdlib-js/process/tree/main/argv`][@stdlib/process/argv
+
 </section>
 
 <!-- /.related -->
@@ -86,6 +92,12 @@ console.dir( ENV );
 <section class="links">
 
 [man-environ]: http://man7.org/linux/man-pages/man7/environ.7.html
+
+<!-- <related-links> -->
+
+[@stdlib/process/argv]: https://github.com/stdlib-js/process/tree/main/argv
+
+<!-- </related-links> -->
 
 </section>
 

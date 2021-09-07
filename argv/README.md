@@ -79,6 +79,12 @@ console.log( ARGV );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/process/env`][@stdlib/process/env]: https://github.com/stdlib-js/process/tree/main/env`][@stdlib/process/env
+
 </section>
 
 <!-- /.related -->
@@ -86,6 +92,12 @@ console.log( ARGV );
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/process/env]: https://github.com/stdlib-js/process/tree/main/env
+
+<!-- </related-links> -->
 
 </section>
 
