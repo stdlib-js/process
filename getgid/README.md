@@ -76,9 +76,9 @@ console.log( 'gid: %d', gid );
 
 ## See Also
 
--   [`@stdlib/process/getegid`][@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid`][@stdlib/process/getegid
--   [`@stdlib/process/geteuid`][@stdlib/process/geteuid]: https://github.com/stdlib-js/process/tree/main/geteuid`][@stdlib/process/geteuid
--   [`@stdlib/process/getuid`][@stdlib/process/getuid]: https://github.com/stdlib-js/process/tree/main/getuid`][@stdlib/process/getuid
+-   [`@stdlib/process/getegid`][@stdlib/process/getegid]: return the effective numeric group identity of a calling process.
+-   [`@stdlib/process/geteuid`][@stdlib/process/geteuid]: return the effective numeric user identity of a calling process.
+-   [`@stdlib/process/getuid`][@stdlib/process/getuid]: return the numeric user identity of a calling process.
 
 </section>
 

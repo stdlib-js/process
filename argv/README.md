@@ -83,7 +83,7 @@ console.log( ARGV );
 
 ## See Also
 
--   [`@stdlib/process/env`][@stdlib/process/env]: https://github.com/stdlib-js/process/tree/main/env`][@stdlib/process/env
+-   [`@stdlib/process/env`][@stdlib/process/env]: object containing the user environment.
 
 </section>
 

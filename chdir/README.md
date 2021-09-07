@@ -101,7 +101,7 @@ console.log( cwd() );
 
 ## See Also
 
--   [`@stdlib/process/cwd`][@stdlib/process/cwd]: https://github.com/stdlib-js/process/tree/main/cwd`][@stdlib/process/cwd
+-   [`@stdlib/process/cwd`][@stdlib/process/cwd]: return the current working directory.
 
 </section>
 

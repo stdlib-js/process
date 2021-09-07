@@ -80,9 +80,9 @@ if ( uid === 0 ) {
 
 ## See Also
 
--   [`@stdlib/process/getegid`][@stdlib/process/getegid]: https://github.com/stdlib-js/process/tree/main/getegid`][@stdlib/process/getegid
--   [`@stdlib/process/getgid`][@stdlib/process/getgid]: https://github.com/stdlib-js/process/tree/main/getgid`][@stdlib/process/getgid
--   [`@stdlib/process/getuid`][@stdlib/process/getuid]: https://github.com/stdlib-js/process/tree/main/getuid`][@stdlib/process/getuid
+-   [`@stdlib/process/getegid`][@stdlib/process/getegid]: return the effective numeric group identity of a calling process.
+-   [`@stdlib/process/getgid`][@stdlib/process/getgid]: return the numeric group identity of a calling process.
+-   [`@stdlib/process/getuid`][@stdlib/process/getuid]: return the numeric user identity of a calling process.
 
 </section>
 

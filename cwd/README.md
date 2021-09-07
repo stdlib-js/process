@@ -119,7 +119,7 @@ $ cwd
 
 ## See Also
 
--   [`@stdlib/process/chdir`][@stdlib/process/chdir]: https://github.com/stdlib-js/process/tree/main/chdir`][@stdlib/process/chdir
+-   [`@stdlib/process/chdir`][@stdlib/process/chdir]: change the current working directory.
 
 </section>
 
