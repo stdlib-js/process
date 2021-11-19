@@ -20,9 +20,9 @@ limitations under the License.
 
 # Process
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Standard library process utilities.
+> Process utilities.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var ns = require( '@stdlib/process' );
 
 #### ns
 
-Standard library process utilities.
+Namespace containing process utilities.
 
 ```javascript
 var proc = ns;
@@ -150,8 +150,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/process/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/process?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/process.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/process/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
