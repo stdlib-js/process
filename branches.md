@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/process"
-click B href "https://github.com/stdlib-js/process/tree/main"
-click C href "https://github.com/stdlib-js/process/tree/production"
-click D href "https://github.com/stdlib-js/process/tree/esm"
-click E href "https://github.com/stdlib-js/process/tree/deno"
-click F href "https://github.com/stdlib-js/process/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/process"
+%% click B href "https://github.com/stdlib-js/process/tree/main"
+%% click C href "https://github.com/stdlib-js/process/tree/production"
+%% click D href "https://github.com/stdlib-js/process/tree/esm"
+%% click E href "https://github.com/stdlib-js/process/tree/deno"
+%% click F href "https://github.com/stdlib-js/process/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/process
