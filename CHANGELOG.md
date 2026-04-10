@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-27)
+## Unreleased (2026-04-10)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#10884](https://github.com/stdlib-js/stdlib/issues/10884)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`73ba549`](https://github.com/stdlib-js/stdlib/commit/73ba549f03f075fda5c60ce5949d23285b9572a6) - **chore:** replace `new Array()` with array literal [(#10886)](https://github.com/stdlib-js/stdlib/pull/10886) _(by Daniel Mungai Chege, Athan Reines, stdlib-bot)_
 -   [`3422651`](https://github.com/stdlib-js/stdlib/commit/3422651a3ec2e6717f25d82020a62f00dbe2aa78) - **docs:** add missing section closing comments in READMEs _(by Philipp Burckhardt)_
 -   [`010db5c`](https://github.com/stdlib-js/stdlib/commit/010db5c09c887bd581006fea011661ecc3ea5d2a) - **test:** fix descriptions _(by Athan Reines)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -31,9 +44,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Daniel Mungai Chege
 -   Philipp Burckhardt
 
 </section>
